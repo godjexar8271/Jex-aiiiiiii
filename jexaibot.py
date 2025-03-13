@@ -2,8 +2,8 @@ import telebot
 import google.generativeai as genai
 
 # 🔑 Google Gemini API Key & Telegram Bot Token
-GEMINI_API_KEY = "AIzaSyBXgYujq-O8szIKho-K-mH0lelH8a2k6H8"
-TELEGRAM_BOT_TOKEN = "7513076537:AAF3pamvPpoWBgWigu9gpM83fhw4276mw9o"
+GEMINI_API_KEY = "szIKho-K-mH0lelH8a2k6H8"
+TELEGRAM_BOT_TOKEN = "AF3pamvPpoWBgWigu9gpM83fhw4276mw9o"
 
 # 🚀 API Setup
 genai.configure(api_key=GEMINI_API_KEY)
